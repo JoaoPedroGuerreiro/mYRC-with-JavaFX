@@ -22,3 +22,8 @@ To run the project locally:
 ```bash
 git clone git@github.com:JoaoPedroGuerreiro/mYRC-with-JavaFX.git
 cd mYRC-with-JavaFX
+
+
+
+🤝 Contributing
+Feel free to send suggestions so I can add new features or improvements!
