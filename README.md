@@ -24,6 +24,14 @@ git clone git@github.com:JoaoPedroGuerreiro/mYRC-with-JavaFX.git
 cd mYRC-with-JavaFX
 
 
-
 🤝 Contributing
-Feel free to send suggestions so I can add new features or improvements!
+
+💡 Got an idea to improve mYRC? Awesome! Contributions are welcome!
+
+🔹 New features? Bring 'em on!
+🔹 Bug fixes? Let's squash 'em!
+🔹 UI improvements? Make it shine!
+
+Just fork the repo, create a branch, and open a Pull Request! 🚀
+
+📩 Also, feel free to suggest ideas or report issues—your input is valuable!
