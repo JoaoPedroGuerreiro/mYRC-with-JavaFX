@@ -1,7 +1,5 @@
 # 🚀 mYRC-with-JavaFX
 
-![mYRC Chat Preview](https://github.com/JoaoPedroGuerreiro/Assets/blob/main/mYRC.png)
-
 ## 📝 About the Project
 After using a traditional **chat server** in the terminal, I wanted to bring it to life by adding a **Graphical User Interface (GUI)**. Initially, I experimented with **Java Swing**, but I ultimately chose **JavaFX** due to its:
 - 🎨 **Enhanced graphics** and modern UI capabilities  
