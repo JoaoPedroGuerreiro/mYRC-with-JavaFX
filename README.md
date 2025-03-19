@@ -21,11 +21,9 @@ With JavaFX, I can create a **dynamic, sleek, and modern chat experience**, sett
 
 💡 Got an idea to improve mYRC? Awesome! Contributions are welcome!
 
-🔹 New features? Bring 'em on!  
-🔹 Bug fixes? Let's squash 'em!  
-🔹 UI improvements? Make it shine!
-
-Just fork the repo, create a branch, and open a Pull Request! 🚀
+🔹 New features?
+🔹 Bug fixes? 
+🔹 UI improvements?
 
 📩 Also, feel free to suggest ideas or report issues—your input is valuable!
 
